@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58731ba7-ea0d-42ee-9ff1-6d78917fd82a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/docs/wiki/howto.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/@rocketseat/gatsby-theme-docs/text/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@rocketseat/gatsby-theme-docs/text/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/sidebar.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/sidebar.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <updated>1605839981786</updated>
       <workItem from="1605839982355" duration="1714000" />
       <workItem from="1605863808882" duration="494000" />
-      <workItem from="1605865269470" duration="2614000" />
+      <workItem from="1605865269470" duration="6114000" />
     </task>
     <servers />
   </component>
