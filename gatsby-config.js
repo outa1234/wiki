@@ -17,8 +17,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
-        baseDir: `examples/gatsby-theme-docs`,
+        githubUrl: `https://github.com/OyasaiServer/wiki`,
       },
     },
     {
